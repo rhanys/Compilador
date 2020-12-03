@@ -1,0 +1,33 @@
+# ☆
+# Funcao de soma simples
+
+func myFunc(a: inteiro, b: inteiro): qualquer {
+    var result: inteiro;
+    var k;
+
+    # var k;
+
+    # result = f + z;
+
+    result = a + b;
+
+    k = 1 + 2;
+
+    k = ((1 + 2) * (2 + 1 + 3));
+
+    escreva('Resultado da soma:');
+    escreva(result);
+
+}
+
+ func myFunc(): qualquer {
+
+ }
+
+myFunc(3, 2);
+
+
+
+
+
+
